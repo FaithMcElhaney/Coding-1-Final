@@ -11,3 +11,12 @@ p {
     font-size: 30px;
     text-align: center;
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+  display: block;
+}
+body {background-color:lightblue;}
