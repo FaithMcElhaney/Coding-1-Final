@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+}
+h1 {
+    font-style: oblique;
+}
+link {
+    font-style: inherit;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+}
