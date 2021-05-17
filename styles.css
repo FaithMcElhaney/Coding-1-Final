@@ -13,10 +13,14 @@ p {
 }
 
 footer {
-  text-align: center;
+  text-align: center; 
   padding: 3px;
   background-color: DarkSalmon;
   color: white;
   display: block;
+  
 }
-body {background-color:lightblue;}
+body {
+    background-color:lightblue;
+}
+
